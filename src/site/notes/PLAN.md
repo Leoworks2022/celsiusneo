@@ -5,6 +5,7 @@
 
 WELCOME TO THE COMMUNITY UNIFIED PLAN 
 
+RICHA IS STUPID
 
 1.0 REDEPMTION PLAN [Proposal from Crypto BTC ]
 https://twitter.com/crypto___btc/status/1577126051410432000?s=20&t=jxB6ZlaO61slwz0VTJjRiw
