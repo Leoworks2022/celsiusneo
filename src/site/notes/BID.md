@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bid/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/bid/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
