@@ -3,4 +3,4 @@
 ---
 
 
-12 CEL TOKEN
+11 CEL TOKEN
