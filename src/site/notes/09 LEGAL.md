@@ -5,8 +5,4 @@
 
 9.1 LEGAL VALIDITY OF THE PLAN
 
-
-
-
-
 9.2 
