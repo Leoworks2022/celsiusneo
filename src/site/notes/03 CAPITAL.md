@@ -6,3 +6,7 @@
 OPTIONS 
 	3.1 CREDITORS FUNDING
 	3.2  EXTERNAL INVESTORS
+	
+	3.5 OPEN QUESTIONS
+		3.5.1 Roughly how much new capital would be needed to make a stand alone community led reorg viable and feasible?
+		3.5.2 Is it feasible for us to begin work with regulators asap to expedite obtaining any necessary licenses needed to resume operations & begin our road to recovery?
