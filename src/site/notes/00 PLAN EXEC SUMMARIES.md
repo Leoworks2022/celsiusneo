@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/00-plan-exec-summaries/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
 
 00 PLAN EXEC SUMMARIES
 
