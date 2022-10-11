@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/03-capital/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
 
 OPTIONS 
 	3.1 CREDITORS FUNDING
