@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-plan-exec-summaries/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
+[Home](https://celsiusneo2022.netlify.app/)
 
 00 PLAN EXEC SUMMARIES
 
