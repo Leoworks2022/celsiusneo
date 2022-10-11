@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/03-capital/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](https://celsiusneo2022.netlify.app/)
+[Home](https://celsiusneo2022.netlify.app/)  I accept $CEL Tokens --> 0x30A856a22C187eA010EDC30388A114F213465D73 
 
 OPTIONS 
 	3.1 CREDITORS FUNDING
