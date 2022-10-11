@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-legal/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
+[Home](https://celsiusneo2022.netlify.app/)
 
 9.1 LEGAL VALIDITY OF THE PLAN
 
