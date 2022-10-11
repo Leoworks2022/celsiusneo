@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-coin-distribution/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
+[Home](https://celsiusneo2022.netlify.app/)
 
 1.0 COIN DISTRIBUTION 
 	1.1 SIMON's PLAN [DRAFT - created by CR --> @C_Researchers)]
