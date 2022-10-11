@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-coin-distribution/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](https://celsiusneo2022.netlify.app/)
+[Home](https://celsiusneo2022.netlify.app/)  I accept $CEL Tokens --> 0x30A856a22C187eA010EDC30388A114F213465D73 
 
 1.0 COIN DISTRIBUTION 
 	1.1 SIMON's PLAN [DRAFT - created by CR --> @C_Researchers)]
