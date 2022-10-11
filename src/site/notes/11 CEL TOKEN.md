@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/11-cel-token/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[Home](obsidian://open?vault=Obsidian%20Vault&file=00%20PLAN)
+[Home](https://celsiusneo2022.netlify.app/)
 
 11 CEL TOKEN
